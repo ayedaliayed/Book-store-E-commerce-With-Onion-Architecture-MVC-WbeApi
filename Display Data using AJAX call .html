@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Include jQuery library from CDN -->
+    <script src="https://code.jquery.com/jquery-1.12.3.min.js" integrity="sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ=" crossorigin="anonymous"></script>
+</head>
+<body>
+    <table id="tb">
+        <thead>
+            <tr>
+                <th>id</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Category Name</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            
+        </tbody>
+    </table>
+
+    <script>
+        // Example AJAX call using jQuery
+        $.ajax({
+            url: 'http://localhost:5222/api/Product',
+            method: 'GET',
+            dataType: 'json', // Corrected the dataType
+            success: function(data) {
+                // Handle the successful response
+                data.forEach(function(item) {
+                    $("#tb > tbody").append(
+                        '<tr>'+
+                            '<td>'+item.id +'</td>'+
+                            '<td>'+item.name +'</td>'+
+                            '<td>'+item.price +'</td>'+
+                            '<td>'+item.categoryName +'</td>'+
+                        '</tr>'
+                    );
+                });
+                console.log(data);
+            },
+            error: function(xhr, status, error) {
+                // Handle errors
+                console.log("Can't find the data");
+            }
+        });
+    </script>
+</body>
+</html>

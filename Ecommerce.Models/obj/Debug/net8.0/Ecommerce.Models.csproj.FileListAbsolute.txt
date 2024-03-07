@@ -1,0 +1,12 @@
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Models\bin\Debug\net8.0\Ecommerce.Models.deps.json
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Models\bin\Debug\net8.0\Ecommerce.Models.dll
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Models\bin\Debug\net8.0\Ecommerce.Models.pdb
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.AssemblyInfoInputs.cache
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.AssemblyInfo.cs
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.csproj.CoreCompileInputs.cache
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.dll
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Models\obj\Debug\net8.0\refint\Ecommerce.Models.dll
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.pdb
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Models\obj\Debug\net8.0\ref\Ecommerce.Models.dll
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Models\obj\Debug\net8.0\Ecommerce.Models.csproj.AssemblyReference.cache

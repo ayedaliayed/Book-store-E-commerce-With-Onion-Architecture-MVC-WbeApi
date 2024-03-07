@@ -1,0 +1,17 @@
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Context\bin\Debug\net8.0\Ecommerce.Context.deps.json
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Context\bin\Debug\net8.0\Ecommerce.Context.runtimeconfig.json
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Context\bin\Debug\net8.0\Ecommerce.Context.dll
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Context\bin\Debug\net8.0\Ecommerce.Context.pdb
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Context\bin\Debug\net8.0\Ecommerce.Models.dll
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Context\bin\Debug\net8.0\Ecommerce.Models.pdb
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Context\obj\Debug\net8.0\Ecommerce.Context.csproj.AssemblyReference.cache
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Context\obj\Debug\net8.0\Ecommerce.Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Context\obj\Debug\net8.0\Ecommerce.Context.AssemblyInfoInputs.cache
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Context\obj\Debug\net8.0\Ecommerce.Context.AssemblyInfo.cs
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Context\obj\Debug\net8.0\Ecommerce.Context.csproj.CoreCompileInputs.cache
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Context\obj\Debug\net8.0\Ecommerce.Context.csproj.CopyComplete
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Context\obj\Debug\net8.0\Ecommerce.Context.dll
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Context\obj\Debug\net8.0\refint\Ecommerce.Context.dll
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Context\obj\Debug\net8.0\Ecommerce.Context.pdb
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Context\obj\Debug\net8.0\Ecommerce.Context.genruntimeconfig.cache
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Context\obj\Debug\net8.0\ref\Ecommerce.Context.dll

@@ -1,0 +1,12 @@
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Dtos\bin\Debug\net8.0\Ecommerce.Dtos.deps.json
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Dtos\bin\Debug\net8.0\Ecommerce.Dtos.dll
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Dtos\bin\Debug\net8.0\Ecommerce.Dtos.pdb
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Dtos\obj\Debug\net8.0\Ecommerce.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Dtos\obj\Debug\net8.0\Ecommerce.Dtos.AssemblyInfoInputs.cache
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Dtos\obj\Debug\net8.0\Ecommerce.Dtos.AssemblyInfo.cs
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Dtos\obj\Debug\net8.0\Ecommerce.Dtos.csproj.CoreCompileInputs.cache
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Dtos\obj\Debug\net8.0\Ecommerce.Dtos.dll
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Dtos\obj\Debug\net8.0\refint\Ecommerce.Dtos.dll
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Dtos\obj\Debug\net8.0\Ecommerce.Dtos.pdb
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Dtos\obj\Debug\net8.0\ref\Ecommerce.Dtos.dll
+E:\.Net\ASP\DEMOS\EcommerceOnion\Ecommerce.Dtos\obj\Debug\net8.0\Ecommerce.Dtos.csproj.AssemblyReference.cache
